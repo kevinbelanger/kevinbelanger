@@ -1,6 +1,10 @@
-# Hi! 👋
+# Hi there, I'm Kevin Belanger! 👋
 
-## Skills
+## 📫 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/belanger-kevin](https://www.linkedin.com/in/belanger-kevin)
+
+## 🛠️ My Toolbox
 
 ### Cloud Provider
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
